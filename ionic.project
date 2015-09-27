@@ -1,0 +1,12 @@
+{
+  "name": "quiz",
+  "app_id": "f74ff870",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
